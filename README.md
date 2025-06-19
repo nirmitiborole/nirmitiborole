@@ -157,31 +157,6 @@ class Nirmiti:
 
 ---
 
-## 🎓 Leadership & Impact
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/👥_Workshops-6_Conducted-FF6B9D?style=for-the-badge&logo=google&logoColor=white" alt="Workshops"/>
-<br><strong>AI/ML Educator</strong>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎯_Developers-75+_Trained-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Developers"/>
-<br><strong>Community Leader</strong>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/📈_Attendance-60%_Increase-34A853?style=for-the-badge&logo=analytics&logoColor=white" alt="Growth"/>
-<br><strong>Growth Driver</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🏆 Certifications & Awards
 
 <div align="center">
@@ -206,20 +181,6 @@ class Nirmiti:
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📚 Education Journey
-
-<div align="center">
-
-| Institution | Degree | Score | Duration |
-|-------------|--------|-------|-----------|
-| 🎓 **Pillai College of Engineering** | B.Tech Computer Engineering | **8.81 CGPA** | 2022-2026 |
-| 📖 **Kamladevi College** | Higher Secondary Certificate | **82.5%** | 2020-2022 |
-| 🏫 **Lodha World School** | Secondary Education | **88.4%** | 2014-2020 |
 
 </div>
 
