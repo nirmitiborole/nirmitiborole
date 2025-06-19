@@ -90,7 +90,7 @@ class Nirmiti:
 <td width="50%">
 
 ### 🌐 NexusTranslate
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nirmitiborole&repo=NexusTranslate&theme=radical)](https://github.com/nirmitiborole/NexusTranslate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nirmitiborole&repo=english_to_hindi_translator&theme=radical)](https://github.com/nirmitiborole/english_to_hindi_translator)
 
 **Neural Translation System**
 - 🧠 Seq2Seq Neural Network
@@ -116,7 +116,7 @@ class Nirmiti:
 <td width="50%">
 
 ### 📊 Sales Analytics Dashboard
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nirmitiborole&repo=Sales-Analytics-Dashboard&theme=radical)](https://github.com/nirmitiborole/Sales-Analytics-Dashboard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nirmitiborole&repo=classicalmodels_dashboard&theme=radical)](https://github.com/nirmitiborole/classicalmodels_dashboard)
 
 **Business Intelligence Solution**
 - 📈 5,000+ Records Processed
@@ -128,7 +128,7 @@ class Nirmiti:
 <td width="50%">
 
 ### 💬 Real-Time Chat App
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nirmitiborole&repo=Real-Time-Chat&theme=radical)](https://github.com/nirmitiborole/Real-Time-Chat)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nirmitiborole&repo=chat_app&theme=radical)](https://github.com/nirmitiborole/chat_app)
 
 **Scalable Messaging System**
 - 🔄 Real-time Communication
